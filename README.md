@@ -16,8 +16,8 @@ Sample Colabolatory is [![Open In Colab](https://colab.research.google.com/asset
 
 IF you success to make VNC server and gym environment with my Google Colaboratory, you could see like this movie.
 
-![result](https://github.com/blacktanktop/minerl_colab/blob/master/minerl_game_start.gif)
+![result](https://github.com/blacktanktop/minerl_colab/blob/master/gif/minerl_game_start.gif)
 
 My Colabolatory [MineRLNavigateDense-v0 movie](http://minerl.io/docs/tutorials/first_agent.html#no-op-actions-and-a-better-policy)
 
-![result](https://github.com/blacktanktop/minerl_colab/blob/master/minerl_game_display.gif)
+![result](https://github.com/blacktanktop/minerl_colab/blob/master/gif/minerl_game_display.gif)
