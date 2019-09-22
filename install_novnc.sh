@@ -57,3 +57,5 @@ apt-get update && apt-get install -y --no-install-recommends \
         mesa-utils \
         python-opengl \
     >/dev/null
+
+cd ${CWD}
