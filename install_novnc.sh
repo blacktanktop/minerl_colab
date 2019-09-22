@@ -42,8 +42,6 @@ cd /opt/websockify && make
 apt-get update && apt-get install -y --no-install-recommends \
         ca-certificates \
         curl \
-        vim.tiny \
-        nano \
         libc6-dev \
         libglu1 \
         libsm6 \
@@ -57,7 +55,7 @@ apt-get update && apt-get install -y --no-install-recommends \
         xvfb \
         x11vnc \
         xtightvncviewer \
-        x11-xserver-utils \ # This is important
+        x11-xserver-utils \
         mesa-utils \
         python-opengl \
     >/dev/null
