@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 NOVNC_VERSION=1.0.0-beta
 WEBSOCKIFY_VERSION=0.8.0
 TURBOVNC_VERSION=2.1.2
