@@ -18,6 +18,6 @@ IF you success to make VNC server and gym environment with my Google Colaborator
 
 ![result](https://github.com/blacktanktop/minerl_colab/blob/master/gif/minerl_game_start.gif)
 
-My Colabolatory [MineRLNavigateDense-v0 movie](http://minerl.io/docs/tutorials/first_agent.html#no-op-actions-and-a-better-policy)
+My Colaboatory [MineRLNavigateDense-v0 movie](http://minerl.io/docs/tutorials/first_agent.html#no-op-actions-and-a-better-policy)
 
 ![result](https://github.com/blacktanktop/minerl_colab/blob/master/gif/minerl_game_display.gif)
